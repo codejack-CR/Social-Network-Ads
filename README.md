@@ -103,7 +103,7 @@ plt.show()
 ```
 
 
-![png](output_5_0.png)
+![png](ANN%20Logistic%20Regressor_files/output_5_0.png)
 
 
 ### Interpretable graph
